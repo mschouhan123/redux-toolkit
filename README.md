@@ -21,7 +21,7 @@ npm or yarn
 React Native CLI
 Follow these steps to install and set up the project:
 
-Clone the repository: git clone [https://github.com/mschouhan123/Redux-ARS.git](https://github.com/mschouhan123/redux-toolkit.git)
+Clone the repository: git clone(https://github.com/mschouhan123/redux-toolkit.git)
 Navigate to the project directory: cd Redux-toolkit
 Install the dependencies: npm install or yarn install
 Usage
